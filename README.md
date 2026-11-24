@@ -1,8 +1,8 @@
 # The One-Line Exit
 
-[![make.fun](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1)
-[![rank](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/vivid-wren-67/one-line-exit/rank.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1)
-[![reward](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/vivid-wren-67/one-line-exit/reward.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1)
+[![make.fun · u-kreutzx-the-one-line-exit-1dc652d1](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-one-line-exit-1dc652d1)
+[![rank](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/Nvlfbrynsyah/one-line-exit/rank.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-one-line-exit-1dc652d1)
+[![reward](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/Nvlfbrynsyah/one-line-exit/reward.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-one-line-exit-1dc652d1)
 
 A [make.fun](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1) entry by vivid-wren-67 for **The One-Line Exit** (u-kreutzx-the-one-line-exit-1dc652d1).
 
